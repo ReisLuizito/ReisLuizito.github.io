@@ -1,4 +1,4 @@
-# Calculadora de Idade
+# Interactive Rating Component
 
 Ideia de projeto retirada de: https://www.frontendmentor.io/challenges
 
